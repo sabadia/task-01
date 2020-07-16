@@ -1,0 +1,12 @@
+.container {
+  flex-direction: row;
+  display: flex;
+  place-content: start start;
+  align-items: center;
+  flex-grow: 1;
+  flex-flow: row wrap;
+}
+.btn {
+  width: 60px;
+  margin: 15px 15px;
+}
